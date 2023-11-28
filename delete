@@ -1,0 +1,13 @@
+<!-- <?php include('footer.php'); ?> -->
+        </div>
+		<!-- <?php include('script.php'); ?> -->
+        student notif.php  
+
+
+        <li>
+                            <a href="user_log.php"><i class="icon-chevron-right"></i><i class="icon-file"></i> User Log</a>
+                        </li>
+						<li  class="active">
+                            <a href="activity_log.php"><i class="icon-chevron-right"></i><i class="icon-file"></i> Activity Log</a>
+                        </li>
+						<li>
